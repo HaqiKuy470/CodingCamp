@@ -1,1 +1,1 @@
-https://[username]-bike-sharing-dashboard.streamlit.app
+https://haqikuy470codingintermidiate.streamlit.app
